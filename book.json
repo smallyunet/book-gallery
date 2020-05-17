@@ -2,6 +2,9 @@
     "title": "摄影画廊",
     "description": "",
     "author": "smallyu",
+    "styles": {
+        "website": "style/website.css"
+    },
     "plugins": [
         "-sharing",
         "hide-element",
@@ -14,9 +17,6 @@
         "hide-element": {
             "elements": [".gitbook-link"]
         }
-    },
-    "styles": {
-        "website": "style/website.css"
     }
 }
 
