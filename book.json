@@ -1,5 +1,22 @@
 {
     "title": "摄影画廊",
-    "author": "smallyu"
+    "description": "",
+    "author": "smallyu",
+    "plugins": [
+        "-sharing",
+        "hide-element",
+        "splitter",
+        "popup",
+        "search-plus",
+        "chapter-fold"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    },
+    "styles": {
+        "website": "style/website.css"
+    }
 }
 

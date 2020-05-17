@@ -1,0 +1,23 @@
+.img-wrapper {
+    text-align: center;
+}
+
+.width-forty {
+    width: 40%;
+}
+
+.width-fifty {
+    width: 50%;
+}
+
+.rotate-ninty {
+    transform:rotate(90deg);
+}
+
+.padding-top {
+    padding-top:50px;
+}
+
+.padding-bottom {
+    padding-bottom: 50px;
+}
