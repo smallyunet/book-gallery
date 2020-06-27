@@ -9,10 +9,9 @@
 
 使用手机：
 
-- iPhone SE (第二代)
+- iPhone SE (2020)
 - 小米 8 青春版
 
 <div style="text-align:right;">
-创建于 2020年5月17日
-<br>修改于 2020年5月23日
+2020年5月17日
 <div>
